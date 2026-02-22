@@ -76,17 +76,17 @@ You can add the following figures to the report or to this README (e.g. in an `f
 
 1. **Per-category bar plots (PaDiM and Student)**  
    - After running the reporting cells, you get bar plots of AUROC, AP, best F1, balanced accuracy, pixel AUROC, pixel best Dice per category.  
-   - `figures/padim_per_category.png`
-   - `figures/student_per_category.png`
+   - `https://github.com/AlirezaSarbaz/ML_Project_Winter2025_AnomalyDetection/blob/master/figures/padim_per_category.png`
+   - `https://github.com/AlirezaSarbaz/ML_Project_Winter2025_AnomalyDetection/blob/master/figures/student_per_category.png`
 
 2. **Overall comparison table**  
    - The “Overall comparison (macro + micro)” table (PaDiM vs Student, with deltas).  
-   - `figures/overall_comparison.png` 
+   - `https://github.com/AlirezaSarbaz/ML_Project_Winter2025_AnomalyDetection/blob/master/figures/overall_comparison.png` 
 
 3. **Qualitative overlays**  
    - The notebook generates “Input | PaDiM overlay | Student overlay” (and optionally GT contour) for fixed samples per category.  
-   - `figures/qualitative_bottle.png`
-   - `figures/qualitative_cable.png`
+   - `https://github.com/AlirezaSarbaz/ML_Project_Winter2025_AnomalyDetection/blob/master/figures/qualitative_bottle.png`
+   - `https://github.com/AlirezaSarbaz/ML_Project_Winter2025_AnomalyDetection/blob/master/figures/qualitative_cable.png`
 
 ---
 
